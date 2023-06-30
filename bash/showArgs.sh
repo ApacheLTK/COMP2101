@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 cat <<EOF
 the variable 1 has '$1' in it
 the variable 2 has '$2' in it
